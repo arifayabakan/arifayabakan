@@ -10,7 +10,7 @@
 
 Connect with me:
 
-![image](https://user-images.githubusercontent.com/48403225/193453519-207f3585-05b3-45c1-8630-008afafcaa75.png)
+![image](https://user-images.githubusercontent.com/48403225/193453979-fa0ae9c9-4058-44cd-8c8b-2e91802eec60.png)
 
 
 Languages and Tools:
