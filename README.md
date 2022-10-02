@@ -1,12 +1,12 @@
 ### Hi 👋, I'm Arif
 
-🔭 I’m currently working on a structural design office.
+🔭 I’m currently working on a structural design office
 
-🌱 I’m currently learning Python and SQL.
+🌱 I’m currently learning Python and SQL
 
-📖 I'm currently continuing my doctorate at Gebze Technical University.
+📖 I'm currently continuing my doctorate at Gebze Technical University
 
-🏗️ I'm a Structural Design Engineer and  a programmer candidate.
+🏗️ I'm a Structural Design Engineer and  a programmer candidate
 
 📧 How to reach me ayabakanarif@gmail.com
 
