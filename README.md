@@ -8,11 +8,6 @@
 
 📧 How to reach me ayabakanarif@gmail.com
 
-Connect with me:
-
-![image](https://user-images.githubusercontent.com/48403225/193453979-fa0ae9c9-4058-44cd-8c8b-2e91802eec60.png)
-
-
 Languages and Tools:
 
 ![image](https://user-images.githubusercontent.com/48403225/193453074-dcf53041-cee7-4218-a311-69c33e87f7ac.png)
