@@ -2,8 +2,6 @@
 
 🔭 I’m currently working on a structural design office
 
-🌱 I’m currently learning Python and SQL
-
 📖 I'm currently continuing my doctorate at Gebze Technical University
 
 🏗️ I'm a Structural Design Engineer and  a programmer candidate
